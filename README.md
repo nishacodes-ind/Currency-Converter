@@ -1,6 +1,3 @@
-# Currency-Converter
-A simple currency converter built using HTML, CSS and JavaScript.
-
 # Currency Converter
 
 A web-based currency converter built using HTML, CSS, and JavaScript. It allows users to convert amounts between different currencies using live exchange rates.
